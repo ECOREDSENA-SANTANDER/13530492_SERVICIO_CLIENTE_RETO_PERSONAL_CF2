@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 10%
+    right: 20%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
-    right: 30%
+    right: 10%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 51%
+    left: -13%
 
 
 @keyframes float1
@@ -17,3 +22,168 @@
 
   100%
     transform: translateY(0px)
+.banner-principal__img 
+  padding-bottom: 0 !important;
+.banner-principal__img img
+  width: fit-content
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
+  color: $color-sistema-texto !important  
+
+.titulo-principal__numero
+    background-color: $color-acento-contenido  !important
+
+
+.banner-principal .tarjeta
+  animation: gradient-animation 5s infinite ease-in;
+ 
+
+@keyframes gradient-animation 
+    0% 
+        background:  url('../assets/curso/portada/fondo-banner-principal.svg'),linear-gradient(120deg, #CA7441, #FDBB45);
+       
+   
+    100% 
+        background: url('../assets/curso/portada/fondo-banner-principal.svg'), linear-gradient(200deg,#CA7441, #FDBB45);
+
+.boton *, .boton--sm *
+  color: #fff !important;       
+
+.pr-0-cus
+  padding-right: 0 !important
+.pl-cus
+  padding-left: 65px
+
+.bg01
+  background-color: #FFEBC7 !important
+.bg02
+    background: linear-gradient(to right, #CA7441, #FDBB45);
+    border-radius: 30px
+.bg03
+    background: #fff
+    border-radius: 30px
+.bg04
+  background-color: $color-acento-contenido !important
+  width: fit-content;
+.bg05
+  background-color: #fff
+  border-top-right-radius: 100px
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 100px
+  border-bottom-right-radius: 20px
+.bg06
+  background-color: #FFE6E5
+.bg07
+  background-color:#FFBD45
+.bg08
+  background-color:#FEF1DA
+.bg09
+  background-color:#EAEBFD
+  border-radius: 10px
+.bg10
+  border-radius: 10px
+  background-color:#EAEBFD
+
+.bg11
+  border-radius: 10px
+  background-color:#FBE0D0
+.bgimg1
+    background-image: url('../assets/curso/temas/tema1/img13.svg') !important;
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center 
+    height: 400px !important
+.bgimg2
+    background-image: url('../assets/curso/temas/tema2/img6.svg') !important;
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center 
+    height: 415px !important
+
+.fullview
+  background-image: url('../assets/curso/temas/tema2/img1.svg') !important;
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+.br-10
+  border-radius: 10px 
+/*Custom components*/
+.tarjeta--orange
+  background-color: #F6CCB3 !important
+.tarjeta--orange.acordion__activo
+  background-color: #FFEBC7 !important
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+  color: #fff !important
+.tarjeta--container.card-cus > .tarjeta:last-child    
+  border-radius: 0 !important
+.cajon.color-primario 
+    background-color: #FFEBC7
+.slyder-f__btn i  
+  border-radius: 50%;
+  background: $color-acento-botones;
+  font-size: 30px;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  z-index: 1;
+  color: #fff
+.slyder-f__btn.pe-3 i 
+  position: relative;
+  left: 30px;
+.slyder-f__btn.ps-3 i 
+  position: relative;
+  right: 30px;
+.tarjeta.slyder-f-cus
+      border-top-right-radius: 20px;
+      border-bottom-left-radius: 20px;
+      border-top-left-radius: 0 !important
+      border-bottom-right-radius: 0 !important
+.tarjeta.color-primario-cus
+  background-color: #FFEBC7
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #4045AB !important;
+  border: 0 !important;
+  margin-bottom: 1em
+.slyder-a__bullets__item--active
+    background-color: #EE4F47 !important
+    border-color: #EE4F47  !important
+.slyder-a__bullets__item 
+    background-color: #F9C2BF 
+    border: 0 !important;
+.tabs-a__tab 
+    background-color: $color-acento-contenido;
+
+
+
+
+
+
+/*Media Queries*/  
+//// DESKTOP SMALL 1400--------------------------------------
+@media screen and (max-width: $bp-min-xxl)
+  .mb-cus
+    margin-bottom: 2em  !important 
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    margin-left: 1em
+    margin-right: 1em
+
+//// TABLET 992--------------------------------------
+@media screen and (max-width: $bp-max-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+  
+//// TABLET MINI 768--------------------------------------
+@media screen and (max-width: $bp-min-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+
+
+
+//// MOBILE 576--------------------------------------
+@media screen and (max-width: $bp-min-sm)
+  .mb-cus
+    margin-bottom: 2em  !important
+  .bg05
+    border-radius: 0 !important
