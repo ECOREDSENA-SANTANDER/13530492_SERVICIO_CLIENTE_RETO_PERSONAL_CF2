@@ -5,95 +5,65 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 El cliente
+      h1 Imagen y apariencia personal (imagen profesional)
+    .row.justify-content-center.align-items-center.mb-4
+      .col-sm-12.col-lg-1.d-none.d-lg-block
+        img(src='@/assets/curso/temas/tema3/img1.svg', alt='')
+      .col-sm-12.col-lg-11.bg08.p-4.mb-0
+        p.mb-0 La imagen y la apariencia personal es el pasaporte para ingresar al mundo social y laboral. Intervienen factores como: la forma de vestir, el peinado, el lenguaje no verbal, la manera de caminar, el comportamiento y el modo en que se llevan a cabo las interrelaciones con los demás.
+    p.mb-5 La imagen interna (valores, principios, creencias, conocimientos) debe estar acorde con la imagen externa (apariencia física, lenguaje corporal, presentación personal), que se transmite. 
+    .bgimg3.mb-3
+      h4.pt-1 Consejos para mejorar la imagen corporal
     .row.justify-content-center.mb-5
+      .col-sm-12.col-lg-7 
+        LineaTiempoD.color-primario
+          .row(numero="1" titulo="Cuidar la higiene")
+            .col-sm-12.col-lg-12
+              p.mb-0 Para conservar una imagen sana y saludable. 
+          .row(numero="2" titulo="Seleccionar ropa cómoda")
+            .col-sm-12.col-lg-12
+              p.mb-0 De corte clásico, al igual que el calzado y los demás accesorios, elegantes según la personalidad, ocasión y preferencias. 
+          .row(numero="3" titulo="Buenos modales")
+            .col-sm-12.col-lg-12
+              p.mb-4 Tener presente siempre que los buenos modales y las normas de cortesía contribuyen al reconocimiento de la empresa y a la generación de sentido de pertenencia entre sus colaboradores: 
+              ul.lista-ul--color
+                li.d-flex
+                  i.fas.fa-phone-alt
+                  span #[b La uniformidad según la identidad corporativa y su normativa.] Normalmente predomina el gusto clásico, tradicional y universalmente aceptado (traje de chaqueta oscuro, camisa clara, zapato negro o azul según el color del traje, corbata para los hombres y pañuelo para las mujeres).
+                li.d-flex
+                  i.fas.fa-phone-alt
+                  span #[b Arreglo facial: maquillaje para las mujeres, suave y discreto.] En el caso de los hombres el rostro perfectamente afeitado. 
+                li.d-flex
+                  i.fas.fa-phone-alt
+                  span #[b Pulcritud corporal.] 
+                li.d-flex
+                  i.fas.fa-phone-alt
+                  span #[b Cabello limpio y retirado siempre del rostro,] con un corte adecuado a la edad y el trabajo. 
+                li.d-flex
+                  i.fas.fa-phone-alt
+                  span #[b Accesorios: de acuerdo con la normatividad de la empresa.] Usarlo de manera sobria, para conservar la elegancia. 
+
+          .row(numero="4" titulo="La sonrisa")
+            .col-sm-12.col-lg-12
+              p.mb-0 Una sonrisa puede abrir puertas. La sonrisa contagia a los clientes de alegría, positivismo, proyecta un ambiente laboral de amabilidad y buen trato. Es la antesala para iniciar una comunicación y también el toque agradable para finalizarla. Una sonrisa transmite comprensión, aceptación, complacencia. Para garantizar una hermosa sonrisa, se debe estar pendiente de una buena higiene oral. 
+          .row(numero="5" titulo="La imagen en sus manos")
+            .col-sm-12.col-lg-12
+              p.mb-3 Las manos son otro elemento del cuerpo, es la conexión con la piel del otro que puede comunicar cariño, respeto, familiaridad, aprecio, acogida, confianza. Las manos acompañan las palabras, se emplean para enfatizar, pero puede llegar a hacerse una lectura de autoritarismo, cuando se exagera en su uso y en la intensidad de los movimientos. 
+              p.mb-0 Una parte especial de las manos son las uñas, que deben cuidarse, pues ellas están en contacto visual directo con los clientes y pueden reflejar descuido. Lo recomendable es que las uñas se mantengan cortas, limpias y limadas, si las va a llevar pintadas emplee colores claros. 
+
+          .row(numero="6" titulo="Uso de los perfumes y los desodorantes ")
+            .col-sm-12.col-lg-12
+              p.mb-0 Tanto para hombres como mujeres, se recomienda utilizar durante el día olores discretos, que destaquen su elegancia. Los olores conforman el imperceptible lenguaje de las fragancias. 
+          .row(numero="7" titulo="Vestuario")
+            .col-sm-12.col-lg-12
+              p.mb-3 Para las mujeres las faldas, en su largo, no debe sobrepasar los 6 centímetros por encima de la rodilla, no llevarlas demasiado ceñidas y la tela en que se confeccionen estas, así como pantalones, blusas y vestidos, no debe transparentar la ropa interior. Las blusas, si son transparentes, se deben llevar con “camisilla” debajo, tenga en cuenta además que no deben ser muy escotadas y sin mangas.
+              p.mb-3 Para los caballeros debe tener igual cuidado como el de la mujer. Así mismo deben cuidar el largo de los pantalones con el estilo de zapato, cuidar que las medias combinen con el color del pantalón, el color de la correa o cinturón combine con los zapatos y que los puños y cuello de la camisa estén impecables. 
+              p.mb-0 Finalmente, si usted usa uniformes asignados por la empresa, consérvelos en buen estado. Recuerde que la primera impresión que captan los clientes perdura en el tiempo y es de fácil evocación.
       .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema3/img1.png', alt='')
-      .col-sm-12.col-lg-7
-        p.mb-0 El cliente es factor de éxito de una empresa; gracias a sus demandas, sus deseos y sentidas necesidades permanece viva la empresa. Se considera cliente a toda sujeto que demande atención ya sea por requerir productos o servicios en una organización, por tanto se pueden identificar clientes internos (funcionarios de la entidad y clientes externos (no pertenecientes a la organización). 
-        p.mb-4 Todos los esfuerzos se deben orientar a dar respuesta a todas las expectativas del cliente, quien es el epicentro de todas las actividades de la organización, por ello se debe conocer y comprender las necesidades y deseos de los clientes con el fin de plantear estrategias que permitan satisfacerlo. 
-        p.mb-0 Para dar respuesta a los requerimientos de los clientes de forma efectiva, se hace necesario identificar algunos tipos de clientes y reconocer sus características. 
-    Separador
-    #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.1  Tipología de clientes  
-    p.mb-5 Existen diferentes formas de clasificar a los clientes, pero básicamente determina la catalogación, las reacciones y comportamientos que se ponen de manifiesto en el momento en que se entabla una transacción comercial, entre estas están:
-    .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-4.bg10.d-flex.justify-content-center.items-items-center.px-4
-        img(src='@/assets/curso/temas/tema3/img2.svg', alt='')
-
-      .col-sm-12.col-lg-6
-        .bg01.py-4.px-5.br-10
-          ul.lista-ul--color.mb-0
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente grosero:] agresivo. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente polémico:] todo lo discute. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente arrogante - sabelotodo:] cree tener toda la información. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente desconfiado:] suspicaz, incrédulo. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente impulsivo:] actúa sin pensar. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente dubitativo - indeciso:] se le dificulta tomar decisiones. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente meticuloso - Minucioso:] detalla y revisa todo. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente apresurado - con mucha prisa.]
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente reservado:] callado. 
-            li.d-flex
-              i.fas.fa-phone-alt
-              span #[b Cliente afable:] amigable, cordial. 
-    .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-7
-        p.mb-0 Una última clasificación hace referencia a cliente sin y con discapacidad. Los clientes con discapacidad son personas con limitaciones para interactuar socialmente de forma efectiva. 
-        p.mb-4 Para brindar una buena atención a un cliente con discapacidad, se debe contar con un mínimo de conocimiento de cada una de ellas (auditiva, visual, sordo-ceguera, física, cognitiva), este conocimiento le hará cambiar la concepción del discapacitado como un sujeto que tan solo merece lástima, a una persona que merece respeto y atención. 
-        p.mb-0 Según la normatividad nacional e internacional, las empresas deben brindar las condiciones necesarias para que personas con alguna limitación, puedan recibir el servicio que requieran. Para brindar una adecuada atención las empresas deben invertir en adecuar la infraestructura y los equipos tecnológicos. Las organizaciones deben por tanto brindar una atención incluyente a sus clientes.
-
-      .col-sm-12.col-lg-5.d-none.d-lg-block
-        img(src='@/assets/curso/temas/tema3/img3.png', alt='')
+          img(src='@/assets/curso/temas/tema3/img3.png', alt='')
 
 
-
-    Separador
-    #t_3_2.titulo-segundo.color-acento-contenido
-      h2 3.2  El ciclo del servicio
-    p.mb-5 Existen diferentes formas de clasificar a los clientes, pero básicamente determina la catalogación, las reacciones y comportamientos que se ponen de manifiesto en el momento en que se entabla una transacción comercial, entre estas están:  
-    .row.justify-content-center.items-items-center.mb-5
-      .col-sm-12.col-lg-4.bg11.d-flex.justify-content-center.items-items-center.px-4
-        img(src='@/assets/curso/temas/tema3/img4.svg', alt='')
-
-      .col-sm-12.col-lg-8
-        p.mb-3 El ciclo de servicio es el conjunto de actividades que el cliente se ve obligado a realizar para adquirir un producto o servicio.
-        p.mb-5 Un ciclo del servicio se puede definir como una secuencia completa de interacciones entre el cliente y el proveedor, son indispensables para la adquisición de un producto o servicio que va a satisfacer las necesidades planteadas por el mismo. 
-        .cajon.color-primario.p-4.mb-4
-          p.mb-0 Se inicia con la percepción del producto o servicio, la generación de expectativas que el cliente crea frente al producto o servicio al inicio de un proceso de negociación, y finaliza con la ejecución de la transacción y la aceptación del producto al recibirlo.
-
-    
-    
-    
-    
-    
-    
-    Separador
-    #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3  ¿Cómo realizar el abordaje de los diferentes clientes de forma asertiva?
-    .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-lg-1
-        img(src='@/assets/curso/temas/tema3/img5.svg', alt='')
-
-      .col-sm-12.col-lg-11
-        p.mb-0 Hablar de asertividad es referirse a saber decir “no” sin agredir a otro, es ser sincero sin llegar a ofender, es expresar lo que se piensa sin llegar a sentirse menospreciado o ridiculizado, es escuchar la crítica sin sentirse anulado. Es creer en lo que sabe, sin sentirse dueño de la verdad, es reconocer que existen infinidad de cristales para ver el mundo. Es descubrir que el otro puede tener algo que decir y enseñar. 
+ 
 
 
 </template>
