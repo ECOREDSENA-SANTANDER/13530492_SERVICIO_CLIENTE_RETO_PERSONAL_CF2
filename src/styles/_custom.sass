@@ -119,6 +119,12 @@
     height: 50px
     padding-left: 10px
     padding-right: 20px
+.bgimg4
+    background-image: url('../assets/curso/temas/tema4/img13.svg') !important;
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center 
+    height: 480px !important
 .fullview
   background-image: url('../assets/curso/temas/tema2/img1.svg') !important;
   background-position: center
@@ -193,6 +199,8 @@
       border-bottom-left-radius: 20px;
       border-top-left-radius: 0 !important
       border-bottom-right-radius: 0 !important
+.tarjeta.slyder-f-cus-2
+      border-radius: 20px;
 .tarjeta.color-primario-cus
   background-color: #FFEBC7
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
@@ -218,7 +226,48 @@
   background-color: $color-acento-contenido
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
   background-color: #FCDCDA
+.crd--avatarHorizontal-2
+  position: relative
+  padding-right: 12rem
+  margin-bottom: 1em
+  border-radius: 37px
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    left: 35px
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #F6CCB3
 
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first-2, .crd--last-2
+  &::before 
+    background-color: #F6CCB3 !important
+
+.crd--first-2
+  &::before 
+    border-radius: 30px
+.crd--last-2
+  &::before 
+    border-radius: 30px
+
+.avatar
+  position: absolute
+  top: 3em
+  right: -8rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
 
 /*Media Queries*/  
 //// DESKTOP SMALL 1400--------------------------------------
