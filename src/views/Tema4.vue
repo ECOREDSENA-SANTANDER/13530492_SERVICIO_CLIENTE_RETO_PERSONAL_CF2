@@ -115,7 +115,7 @@
               figure
                 img(src="@/assets/curso/temas/tema4/img18.svg", alt="alt").img100
             .col
-              p Son el reflejo de la imagen corporativa para los clientes. Si se fomentan estos comportamientos, se convierten en parte de la cultura organizacional (comportamientos que se presentan entre los colaboradores de una empresa), igualmente previenen conflictos, que median entre las diferencias de los colaboradores, generando acuerdos y consensos. 
+              p Evitan los sobornos y el tráfico de influencia, siempre y cuando la honestidad esté arraigada como un valor primordial que marca la diferencia con otras organizaciones. Brinda pautas para efectuar procesos de selección de personal.  
  
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido

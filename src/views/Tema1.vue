@@ -100,7 +100,7 @@
                   img(src='@/assets/curso/temas/tema1/img10.svg', alt='')
 
                 .col-sm-12.col-lg-9
-                  p.mb-0 Conocimiento de quienes lo rodean, -sus dimensiones y problemas-.
+                  p.mb-0 Conocimiento de quienes lo rodean, (sus dimensiones y problemas).
 
             .bg03.p-5.my-0.h-card
               .row.justify-content-center.align-items-center.mb-0

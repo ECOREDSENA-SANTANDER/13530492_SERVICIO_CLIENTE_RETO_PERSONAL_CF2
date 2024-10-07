@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Principios básicos de atención al cliente
+      h1 Tipos de comunicación
     .row.justify-content-center.align-items-center.mb-3
       .col-sm-12.col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img2.svg', alt='')
@@ -20,17 +20,14 @@
       .p-5(titulo="Oral" :icono="require('@/assets/curso/temas/tema2/img3.svg')")
         .row
           .col-sm-12.col-lg-8
-            h4 Oral
             p A través de signos orales, las palabras habladas, que representa el lenguaje articulado, son sonidos estructurados que dan lugar a las sílabas, palabras y oraciones con las que el ser humano se comunica con los demás. 
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema2/img5.svg', alt='')
       .p-5(titulo="Escrita" :icono="require('@/assets/curso/temas/tema2/img4.svg')")
         .row
           .col-sm-12.col-lg-8
-            h4 Escrita
             p.mb-4 Por medio de la representación gráfica de signos escritos, que plasman la forma de expresión oral.
-            .cajon.color-primario.p-4.mb-4
-              p.mb-0 Independientemente del tipo de comunicación que se lleve a cabo es importante tomar en cuenta las palabras, el significado que se les dé, el contexto en que se utilizan, y los estímulos sociales que existen, cuando estas son expresadas, además de la concordancia en la construcción de las oraciones, el uso de sinónimos para ampliar el significado de lo expresado.
+            p.mb-0 Independientemente del tipo de comunicación que se lleve a cabo es importante tomar en cuenta las palabras, el significado que se les dé, el contexto en que se utilizan, y los estímulos sociales que existen, cuando estas son expresadas, además de la concordancia en la construcción de las oraciones, el uso de sinónimos para ampliar el significado de lo expresado.
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img.mt-4(src='@/assets/curso/temas/tema2/img6.svg', alt='')
 
@@ -200,10 +197,10 @@
 
     p.mb-5 La asertividad ante las acciones o decisiones permite discutir con propiedad, expresar diferencias sin llegar a agredir a los otros y tener la capacidad de aceptar sugerencias. Si existe una equivocación, sin sentirse disminuida su autoestima, brinda la posibilidad de aprender del error y verlo como una oportunidad de mejoramiento. 
     .row.justify-content-center.mb-5
-      .col-sm-12.col-lg-9
+      .col-sm-12.col-lg-10
         TabsA.color-acento-botones.mb-5
           .tarjeta.bg09.p-5(titulo="Principios de la asertividad")
-            h4.mb-3 Principios de la asertividad
+            //h4.mb-3 Principios de la asertividad
             p.mb-3 Entre los más importantes se pueden enunciar: 
             ul.lista-ul--color.mb-0
                 li.d-flex
@@ -219,7 +216,7 @@
                   i.fas.fa-phone-alt
                   spanSer prudente sin mentir.  
           .tarjeta.bg09.p-5(titulo="Derechos asertivos")
-            h4.mb-3 Derechos asertivos
+            //h4.mb-3 Derechos asertivos
             ul.lista-ul--color.mb-0
                 li.d-flex
                   i.fas.fa-phone-alt
@@ -260,7 +257,7 @@
 
                 
           .tarjeta.bg09.p-5(titulo="Ventajas de la asertividad")
-            h4.mb-3 Ventajas de la asertividad
+            //h4.mb-3 Ventajas de la asertividad
             ul.lista-ul--color.mb-0
                 li.d-flex
                   i.fas.fa-phone-alt
@@ -293,7 +290,7 @@
                   i.fas.fa-phone-alt
                   span Proactividad, iniciativa.  
 
-      .col-sm-12.col-lg-3.d-none.d-lg-block
+      .col-sm-12.col-lg-2.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img16.png', alt='')
     p.mb-5 Para ganar asertividad se requiere de alcanzar los siguientes grados: 
     .row.justify-content-center.align-items-center.mb-5
@@ -306,7 +303,7 @@
           li.d-flex
             .lista-ol--cuadro__vineta.color-sistema-texto
               span 2
-            span Mirar el mundo con diferentes cristales. Ver las oportunidades en medio de las dificultades. 
+            span Mirar el mundo con diferentes cristales. Identificar las oportunidades en medio de las dificultades. 
           li.d-flex
             .lista-ol--cuadro__vineta.color-sistema-texto
               span 3

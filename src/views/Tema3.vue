@@ -29,19 +29,19 @@
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-phone-alt
-                  span #[b La uniformidad según la identidad corporativa y su normativa.] Normalmente predomina el gusto clásico, tradicional y universalmente aceptado (traje de chaqueta oscuro, camisa clara, zapato negro o azul según el color del traje, corbata para los hombres y pañuelo para las mujeres).
+                  span La uniformidad según la identidad corporativa y su normativa. Normalmente predomina el gusto clásico, tradicional y universalmente aceptado (traje de chaqueta oscuro, camisa clara, zapato negro o azul según el color del traje, corbata para los hombres y pañuelo para las mujeres).
                 li.d-flex
                   i.fas.fa-phone-alt
-                  span #[b Arreglo facial: maquillaje para las mujeres, suave y discreto.] En el caso de los hombres el rostro perfectamente afeitado. 
+                  span Arreglo facial: maquillaje para las mujeres, suave y discreto. En el caso de los hombres el rostro perfectamente afeitado. 
                 li.d-flex
                   i.fas.fa-phone-alt
-                  span #[b Pulcritud corporal.] 
+                  span Pulcritud corporal. 
                 li.d-flex
                   i.fas.fa-phone-alt
-                  span #[b Cabello limpio y retirado siempre del rostro,] con un corte adecuado a la edad y el trabajo. 
+                  span Cabello limpio y retirado siempre del rostro, con un corte adecuado a la edad y el trabajo. 
                 li.d-flex
                   i.fas.fa-phone-alt
-                  span #[b Accesorios: de acuerdo con la normatividad de la empresa.] Usarlo de manera sobria, para conservar la elegancia. 
+                  span Accesorios: de acuerdo con la normatividad de la empresa. Usarlo de manera sobria, para conservar la elegancia. 
 
           .row(numero="4" titulo="La sonrisa")
             .col-sm-12.col-lg-12

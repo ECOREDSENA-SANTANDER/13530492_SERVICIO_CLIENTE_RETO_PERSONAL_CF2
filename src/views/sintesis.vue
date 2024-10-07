@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="El diagrama presenta los principales temas trabajados en el componente: comunicación, imagen personal y valores organizacionales; adicionalmente se presentan las relaciones entre ellos y sus características más importantes.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

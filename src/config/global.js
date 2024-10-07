@@ -127,12 +127,12 @@ export default {
         nombreRuta: 'sintesis',
         desarrolloContenidos: true,
       },
-      /* {
+      {
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      }, */
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -195,10 +195,6 @@ export default {
         'acción de comprender. Facultad, capacidad o perspicacia para entender y penetrar las cosas. Actitud comprensiva o tolerante. Conjunto de cualidades que integran una idea.',
     },
     {
-      termino: 'Comprensión',
-      significado: 'humanidad, sentimientos y raciocinio.',
-    },
-    {
       termino: 'Cortesía',
       significado:
         'demostración o acto con que se manifiesta la atención, respeto o afecto que tiene alguien a otra persona.',
@@ -251,7 +247,7 @@ export default {
 
     {
       referencia:
-        'Real Academia Española. (2015). Comunicación. Consultado el 16 de julio 2015, en http://lema.rae.es/drae/?val=comunicacion',
+        'Real Academia Española. (2015). Comunicación. Consultado el 16 de julio 2015, en ',
       link: ' http://lema.rae.es/drae/?val=comunicacion',
     },
   ],
@@ -276,28 +272,32 @@ export default {
       autores: [
         {
           nombre: 'José Luis Aguilar Camacho',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experto temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Marina Jaramillo Portillo',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Lucy Yaneth Rache Pérez',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Elsa Vargas Báez',
-          cargo: '--',
-          centro: '--',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Luz Clarena Arias González ',
-          cargo: '--',
-          centro: '--',
+          nombre: 'Luz Clarena Arias González',
+          cargo: 'Guionista - Línea de Producción',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Carolina Jiménez',
@@ -320,6 +320,11 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrolladora <i>full-stack</i> junior',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
@@ -330,7 +335,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '--',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
