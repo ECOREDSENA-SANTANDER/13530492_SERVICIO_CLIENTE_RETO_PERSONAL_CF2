@@ -11,7 +11,7 @@
     p.mb-5 En el siguiente video se presenta la introducción al componente, en el cual se abordan conceptos básicos de la atención y el servicio al cliente.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/QBRS3jW-1Qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Z4iE67R_4z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Introducción
 </template>
 

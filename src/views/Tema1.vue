@@ -13,7 +13,11 @@
     p.mb-5 La comunicación es el proceso de transferencia de información, sentimientos y emociones, que se da mediante la codificación y decodificación de un mensaje, en el cual intervienen dos actores, un emisor, quien toma la iniciativa del comunicar y un receptor, quien interpreta la intencionalidad del emisor, empleando un canal que establece un tiempo y un espacio para dar significado a las ideas transmitidas.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-6
-       img.mb-5(src='@/assets/curso/temas/tema1/img1.svg', alt='')
+        .titulo-sexto.color-secundario
+          h5 Figura 1.
+          span
+            |  Ciclo de comunicación.
+        img.mb-5(src='@/assets/curso/temas/tema1/img1.svg', alt='En la figura se presenta el ciclo de la comunicación describiendo el proceso desde que el mensaje es emitido por el emisor y llega al receptor.')
     
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-5.d-none.d-lg-block

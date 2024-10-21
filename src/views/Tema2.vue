@@ -155,7 +155,7 @@
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 La comunicación no verbal
-    p.mb-5 En el acto comunicativo la comunicación no verbal, es decir, expresiones faciales, posturas, miradas, sonrisa, llanto, tono y timbre de voz, según Mehrabian (2009), representa el 80% del intercambio comunicacional, por lo tanto, al compartir mensajes con otros se debe ser coherente entre el decir y el hacer, la palabra, los matices que las acompañan y los gestos. Esto evita que el mensaje se distorsione.
+    p.mb-5 En el acto comunicativo la comunicación no verbal, es decir, expresiones faciales, posturas, miradas, sonrisa, llanto, tono y timbre de voz, según Mehrabian (2009), representa el 80 % del intercambio comunicacional, por lo tanto, al compartir mensajes con otros se debe ser coherente entre el decir y el hacer, la palabra, los matices que las acompañan y los gestos. Esto evita que el mensaje se distorsione.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
         .row.justify-content-center.align-items-center.mb-5
@@ -167,9 +167,13 @@
         p.mb-5 Esta lectura le da herramientas para mantener o modificar la dinámica de la interacción. El contacto visual, es un elemento que consolida las relaciones interpersonales. Refiere que una mirada fija, se interpreta como signo de cariño o simpatía. Por el contrario, si se evade el contacto visual se llega a la conclusión que no es aceptado, que no es del agrado, que es antipático, o simplemente que es una manifestación de timidez. Ahora bien, si el contacto visual es muy fijo y frío, puede ser leído como un indicador de agresividad. 
         .cajon.color-primario.p-4.mb-4
           p.mb-0 Por lo anterior, se debe tener mucho cuidado con el lenguaje no verbal que se acostumbra a emplear en la atención a los clientes; estos simples detalles pueden consolidar una transacción o por el contrario romper una relación comercial. 
-      .col-sm-12.col-lg-4.bg12.p-4
+      .col-sm-12.col-lg-4.bg12.pt-4
+          .titulo-sexto.color-secundario
+            h5 Figura 2.
+            span
+              | Tipos de lenguaje
           figure
-            img(src='@/assets/curso/temas/tema2/img14.svg', alt='')
+            img(src='@/assets/curso/temas/tema2/img14.svg', alt='En la imagen se presenta un diagrama tipo torta que muestra los siguientes porcentajes: verbal 7 %, corporal 55% y paraverbal 38%.')
             figcaption Nota. Tomado de Mehrabian (2009)
 
 
@@ -395,7 +399,7 @@
       .col-sm-12.col-lg-1.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema2/img21.svg', alt='')
       .col-sm-12.col-lg-11.bg08.p-4.mb-0
-        p.mb-0 Protocolo, es un término empleado para hacer referencia a las pautas y normativas legales que unido a las costumbres, formalizan las conmemoraciones de carácter oficial. 
+        p.mb-0 Protocolo, es un término empleado para hacer referencia a las pautas y normativas legales que, unido a las costumbres, formalizan las conmemoraciones de carácter oficial. 
 
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-7
