@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.318" height="122.323" viewBox="0 0 122.318 122.323">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_404310" data-name="Rectángulo 404310" width="58.111" height="53.705" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1103265" data-name="Grupo 1103265" transform="translate(-1399.173 -332.092)">
+    <path id="Trazado_913779" data-name="Trazado 913779" d="M253.346,203.6A61.161,61.161,0,1,1,314.5,142.434,61.234,61.234,0,0,1,253.346,203.6" transform="translate(1206.989 250.818)" fill="#4045ab"/>
+    <g id="Grupo_1103255" data-name="Grupo 1103255" transform="translate(1408.517 343.746)" opacity="0.4">
+      <g id="Grupo_1103254" data-name="Grupo 1103254">
+        <g id="Grupo_1103253" data-name="Grupo 1103253" clip-path="url(#clip-path)">
+          <path id="Trazado_913782" data-name="Trazado 913782" d="M233.911,126.56c-14.388,12.091-26.065,18.82-33.8,9.614s-2.346-26.473,12.051-38.563,32.327-14.435,40.063-5.229-3.928,22.086-18.317,34.177" transform="translate(-196.581 -86.759)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_404304" data-name="Rectángulo 404304" width="13.755" height="13.764" transform="translate(1419.548 363.601)" fill="#fff"/>
+    <path id="Trazado_913780" data-name="Trazado 913780" d="M214.684,93.794l-6.074,10.237-3.249-3.5-4.413,3.081,7.494,6.907,14.732-13.067Z" transform="translate(1216.847 264.898)" fill="#ffbd45"/>
+    <rect id="Rectángulo_404305" data-name="Rectángulo 404305" width="62.059" height="5.397" transform="translate(1443.239 368.369)" fill="#fff"/>
+    <rect id="Rectángulo_404306" data-name="Rectángulo 404306" width="13.755" height="13.761" transform="translate(1419.548 388.634)" fill="#fff"/>
+    <path id="Trazado_913781" data-name="Trazado 913781" d="M214.684,105.576l-6.074,10.237-3.249-3.5-4.413,3.081,7.494,6.907,14.732-13.069Z" transform="translate(1216.847 278.15)" fill="#ffbd45"/>
+    <rect id="Rectángulo_404307" data-name="Rectángulo 404307" width="62.059" height="5.399" transform="translate(1443.239 393.401)" fill="#fff"/>
+    <rect id="Rectángulo_404308" data-name="Rectángulo 404308" width="13.755" height="13.766" transform="translate(1419.548 413.669)" fill="#fff"/>
+    <rect id="Rectángulo_404309" data-name="Rectángulo 404309" width="62.059" height="5.399" transform="translate(1443.239 418.438)" fill="#fff"/>
+  </g>
+</svg>
