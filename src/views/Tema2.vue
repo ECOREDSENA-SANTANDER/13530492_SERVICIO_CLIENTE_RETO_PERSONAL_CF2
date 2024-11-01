@@ -20,7 +20,7 @@
       .p-5(titulo="Oral" :icono="require('@/assets/curso/temas/tema2/img3.svg')")
         .row
           .col-sm-12.col-lg-8
-            p A través de signos orales, las palabras habladas, que representa el lenguaje articulado, son sonidos estructurados que dan lugar a las sílabas, palabras y oraciones con las que el ser humano se comunica con los demás. 
+            p A través de signos orales, las palabras habladas, que representan el lenguaje articulado, son sonidos estructurados que dan lugar a las sílabas, palabras y oraciones con las que el ser humano se comunica con los demás. 
           .col-sm-12.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema2/img5.svg', alt='')
       .p-5(titulo="Escrita" :icono="require('@/assets/curso/temas/tema2/img4.svg')")
@@ -88,7 +88,7 @@
                   span El riesgo de interpretación personal es mayor.
                 li.d-flex
                   i.fas.fa-phone-alt
-                  span El mensaje no queda registrado y puede ser tergiversado o alterado más fácil.
+                  span El mensaje no queda registrado y puede ser tergiversado o alterado más fácilmente.
                 li.d-flex
                   i.fas.fa-phone-alt
                   span Es más fácil de olvidar el mensaje. 
@@ -155,18 +155,18 @@
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4 La comunicación no verbal
-    p.mb-5 En el acto comunicativo la comunicación no verbal, es decir, expresiones faciales, posturas, miradas, sonrisa, llanto, tono y timbre de voz, según Mehrabian (2009), representa el 80 % del intercambio comunicacional, por lo tanto, al compartir mensajes con otros se debe ser coherente entre el decir y el hacer, la palabra, los matices que las acompañan y los gestos. Esto evita que el mensaje se distorsione.
+    p.mb-5 En el acto comunicativo, la comunicación no verbal, es decir, expresiones faciales, posturas, miradas, sonrisa, llanto, tono y timbre de voz, según Mehrabian (2009), representa el 80 % del intercambio comunicacional, por lo tanto, al compartir mensajes con otros se debe ser coherente entre el decir y el hacer, la palabra, los matices que las acompañan y los gestos. Esto evita que el mensaje se distorsione.
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-8
         .row.justify-content-center.align-items-center.mb-5
           .col-sm-12.col-lg-1.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema2/img13.svg', alt='')
           .col-sm-12.col-lg-11
-            p El auto conocimiento, el reconocimiento y manejo emocional que se tenga, son pilares de una comunicación asertiva. 
+            p El autoconocimiento, el reconocimiento y el manejo emocional que se tenga, son pilares de una comunicación asertiva. 
             p.mb-0 El lenguaje no verbal proporciona pistas sobre el pensar y el sentir del otro, ya que proyectan una emoción que no puede poner en palabras.
-        p.mb-5 Esta lectura le da herramientas para mantener o modificar la dinámica de la interacción. El contacto visual, es un elemento que consolida las relaciones interpersonales. Refiere que una mirada fija, se interpreta como signo de cariño o simpatía. Por el contrario, si se evade el contacto visual se llega a la conclusión que no es aceptado, que no es del agrado, que es antipático, o simplemente que es una manifestación de timidez. Ahora bien, si el contacto visual es muy fijo y frío, puede ser leído como un indicador de agresividad. 
+        p.mb-5 Esta lectura le da herramientas para mantener o modificar la dinámica de la interacción. El contacto visual es un elemento que consolida las relaciones interpersonales. Refiere que una mirada fija, se interpreta como signo de cariño o simpatía. Por el contrario, si se evade el contacto visual se llega a la conclusión de que no es aceptado, que no es del agrado, que es antipático, o simplemente que es una manifestación de timidez. Ahora bien, si el contacto visual es muy fijo y frío, puede ser leído como un indicador de agresividad. 
         .cajon.color-primario.p-4.mb-4
-          p.mb-0 Por lo anterior, se debe tener mucho cuidado con el lenguaje no verbal que se acostumbra a emplear en la atención a los clientes; estos simples detalles pueden consolidar una transacción o por el contrario romper una relación comercial. 
+          p.mb-0 Por lo anterior, se debe tener mucho cuidado con el lenguaje no verbal que se acostumbra a emplear en la atención a los clientes; estos simples detalles pueden consolidar una transacción o por el contrario, romper una relación comercial. 
       .col-sm-12.col-lg-4.bg12.pt-4
           .titulo-sexto.color-secundario
             h5 Figura 2.

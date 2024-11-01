@@ -52,7 +52,7 @@
                   .col-sm-12.col-lg-2.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema1/img4.svg', alt='')
                   .col-sm-12.col-lg-10
-                    p.mb-0 El acto comunicativo genera una retroalimentación o respuesta por parte del receptor, que va desde un silencio, un gesto, hasta una nueva comunicación de pensamientos a través del lenguaje. En la dinámica del proceso comunicativo, los protagonistas intercambian constantemente los roles (emisor receptor).
+                    p.mb-0 El acto comunicativo genera una retroalimentación o respuesta por parte del receptor, que va desde un silencio, un gesto, hasta una nueva comunicación de pensamientos a través del lenguaje. En la dinámica del proceso comunicativo, los protagonistas intercambian constantemente los roles (emisor, receptor).
                 p.mb-0 En una sociedad inclusiva, se hace necesario referirse a los Sistemas Alternativos de Comunicación (SAC), como el uso de vías distintas al sonido (palabra) articulado para entablar una comunicación, entre estos se encuentran el braille (lenguaje para discapacitados visuales conformado por punto en alto relieve), el morse (mezcla de puntos y rayas o emisiones cortas y largas, transmitidos por impulsos eléctricos o por rayos de luz), pictogramas (dibujos), lengua de señas (uso de ademanes gesto-espaciales empleado por personas con discapacidad auditiva para comunicarse).
 
               .col-auto.d-none.d-lg-block
