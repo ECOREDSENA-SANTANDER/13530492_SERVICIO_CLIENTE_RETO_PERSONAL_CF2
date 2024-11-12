@@ -56,6 +56,7 @@
         | Diferencias entre comunicación oral y escrita
     .tabla-a.color-acento-contenido 
       table
+        caption  Nota. Fuente SENA
         thead
           tr
             th &nbsp;
@@ -169,7 +170,7 @@
           p.mb-0 Por lo anterior, se debe tener mucho cuidado con el lenguaje no verbal que se acostumbra a emplear en la atención a los clientes; estos simples detalles pueden consolidar una transacción o por el contrario, romper una relación comercial. 
       .col-sm-12.col-lg-4.bg12.pt-4
           .titulo-sexto.color-secundario
-            h5 Figura 2.
+            h5 2.
             span
               | Tipos de lenguaje
           figure

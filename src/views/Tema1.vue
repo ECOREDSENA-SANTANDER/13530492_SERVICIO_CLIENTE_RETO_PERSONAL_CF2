@@ -17,8 +17,9 @@
           h5 Figura 1.
           span
             |  Ciclo de comunicación.
-        img.mb-5(src='@/assets/curso/temas/tema1/img1.svg', alt='En la figura se presenta el ciclo de la comunicación describiendo el proceso desde que el mensaje es emitido por el emisor y llega al receptor.')
-    
+        figure
+          img.mb-5(src='@/assets/curso/temas/tema1/img1.svg', alt='En la figura se presenta el ciclo de la comunicación describiendo el proceso desde que el mensaje es emitido por el emisor y llega al receptor.')
+          figcaption Nota. Fuente SENA
     .row.justify-content-center.mb-5
       .col-sm-12.col-lg-5.d-none.d-lg-block
         img(src='@/assets/curso/temas/tema1/img2.png', alt='')
