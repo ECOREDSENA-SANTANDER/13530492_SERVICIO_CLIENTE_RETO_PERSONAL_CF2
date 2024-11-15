@@ -56,7 +56,7 @@
         | Diferencias entre comunicación oral y escrita
     .tabla-a.color-acento-contenido 
       table
-        caption  Nota. Fuente SENA
+        caption  Fuente. SENA
         thead
           tr
             th &nbsp;
